@@ -1,0 +1,19 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_damage": 10,
+            "netease:weapon": {
+                "attack_damage": 5,
+                "level": 1,
+                "speed": 1,
+                "type": "hatchet"
+            }
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "quviz:honeycomb_axe",
+            "register_to_create_menu": true
+        }
+    }
+}

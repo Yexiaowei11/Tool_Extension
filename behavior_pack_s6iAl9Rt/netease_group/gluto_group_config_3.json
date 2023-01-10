@@ -1,0 +1,15 @@
+{
+    "groups": [
+        {
+            "group_name": "红砖工具",
+            "icon": "quviz:bricks_pickaxe",
+            "list": [
+                "quviz:bricks_axe",
+                "quviz:bricks_hoe",
+                "quviz:bricks_pickaxe",
+                "quviz:bricks_shovel",
+                "quviz:bricks_sword"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "groups": [
+        {
+            "group_name": "闪长岩工具",
+            "icon": "quviz:diorite_pickaxe",
+            "list": [
+                "quviz:doprite_axe",
+                "quviz:diorite_hoe",
+                "quviz:diorite_pickaxe",
+                "quviz:shangchangyan",
+                "quviz:diorite_shovel"
+            ]
+        }
+    ]
+}

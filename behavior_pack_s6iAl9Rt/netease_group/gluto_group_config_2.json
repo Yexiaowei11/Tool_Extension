@@ -1,0 +1,15 @@
+{
+    "groups": [
+        {
+            "group_name": "骨头工具",
+            "icon": "quviz:bone_pickaxe",
+            "list": [
+                "quviz:bone_axe",
+                "quviz:bone_hoe",
+                "quviz:bone_pickaxe",
+                "quviz:bone_shovel",
+                "quviz:bone_sword"
+            ]
+        }
+    ]
+}

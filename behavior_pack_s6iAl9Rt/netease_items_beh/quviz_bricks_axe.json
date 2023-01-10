@@ -1,0 +1,20 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_damage": 131,
+            "netease:weapon": {
+                "attack_damage": 9,
+                "enchantment": 2,
+                "level": 1,
+                "speed": 3,
+                "type": "hatchet"
+            }
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "quviz:bricks_axe",
+            "register_to_create_menu": true
+        }
+    }
+}

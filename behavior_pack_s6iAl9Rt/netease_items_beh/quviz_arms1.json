@@ -1,0 +1,20 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_damage": 400,
+            "minecraft:max_stack_size": 1,
+            "netease:weapon": {
+                "attack_damage": 19,
+                "enchantment": 25565,
+                "level": 5,
+                "type": "sword"
+            }
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "quviz:arms1",
+            "register_to_create_menu": true
+        }
+    }
+}

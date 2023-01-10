@@ -1,0 +1,26 @@
+{
+    "groups": [
+        {
+            "group_name": "萤石工具",
+            "icon": "quviz:glowstone_pickaxe",
+            "list": [
+                "quviz:glowstone_axe",
+                "quviz:glowstone_hoe",
+                "quviz:glowstone_pickaxe",
+                "quviz:glowstone_shovel",
+                "quviz:glowstone_sword"
+            ]
+        },
+        {
+            "group_name": "蜂蜜工具",
+            "icon": "quviz:honeycomb_pickaxe",
+            "list": [
+                "quviz:honeycomb_axe",
+                "quviz:honeycomb_hoe",
+                "quviz:honeycomb_pickaxe",
+                "quviz:honeycomb_shovel",
+                "quviz:honeycomb_sword"
+            ]
+        }
+    ]
+}

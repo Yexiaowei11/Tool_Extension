@@ -1,0 +1,20 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_damage": 99999999,
+            "netease:weapon": {
+                "attack_damage": 9999,
+                "enchantment": 9999,
+                "level": 99999999,
+                "speed": 99999999,
+                "type": "hatchet"
+            }
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "quviz:command_axe",
+            "register_to_create_menu": true
+        }
+    }
+}

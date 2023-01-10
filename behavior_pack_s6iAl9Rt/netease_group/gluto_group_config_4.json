@@ -1,0 +1,15 @@
+{
+    "groups": [
+        {
+            "group_name": "仙人掌工具",
+            "icon": "quviz:cactus_pickaxe",
+            "list": [
+                "quviz:cactus_axe",
+                "quviz:cactus_hoe",
+                "quviz:cactus_pickaxe",
+                "quviz:cactus_shovel",
+                "quviz:cactus_sword"
+            ]
+        }
+    ]
+}

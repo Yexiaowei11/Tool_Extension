@@ -1,0 +1,15 @@
+{
+    "groups": [
+        {
+            "group_name": "命令方块工具",
+            "icon": "quviz:command_pickaxe",
+            "list": [
+                "quviz:command_axe",
+                "quviz:command_hoe",
+                "quviz:command_pickaxe",
+                "quviz:command_shovel",
+                "quviz:command_sword"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_damage": 99999999,
+            "netease:weapon": {
+                "attack_damage": 99999999,
+                "enchantment": 99999999,
+                "level": 99999999,
+                "speed": 99999999,
+                "type": "pickaxe"
+            }
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "quviz:command_pickaxe",
+            "register_to_create_menu": true
+        }
+    }
+}

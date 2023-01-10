@@ -1,0 +1,20 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_damage": 100,
+            "netease:weapon": {
+                "attack_damage": 7,
+                "enchantment": 10,
+                "level": 2,
+                "speed": 5,
+                "type": "hoe"
+            }
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "quviz:quartz_hoe",
+            "register_to_create_menu": true
+        }
+    }
+}

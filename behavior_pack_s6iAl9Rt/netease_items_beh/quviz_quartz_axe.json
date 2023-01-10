@@ -1,0 +1,20 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_damage": 100,
+            "netease:weapon": {
+                "attack_damage": 18,
+                "enchantment": 10,
+                "level": 2,
+                "speed": 5,
+                "type": "hatchet"
+            }
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "quviz:quartz_axe",
+            "register_to_create_menu": true
+        }
+    }
+}

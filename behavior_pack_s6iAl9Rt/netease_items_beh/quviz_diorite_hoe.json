@@ -1,0 +1,21 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_damage": 100,
+            "minecraft:max_stack_size": 1,
+            "netease:weapon": {
+                "attack_damage": 9,
+                "enchantment": 10,
+                "level": 1,
+                "speed": 2,
+                "type": "hoe"
+            }
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "quviz:diorite_hoe",
+            "register_to_create_menu": true
+        }
+    }
+}

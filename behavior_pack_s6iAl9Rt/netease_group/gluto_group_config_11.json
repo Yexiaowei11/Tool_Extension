@@ -1,0 +1,15 @@
+{
+    "groups": [
+        {
+            "group_name": "冰工具",
+            "icon": "quviz:ice_pickixe",
+            "list": [
+                "quviz:ice_axe",
+                "quviz:ice_hoe",
+                "quviz:ice_pickixe",
+                "quviz:ise_shovel",
+                "quviz:ice_sword"
+            ]
+        }
+    ]
+}

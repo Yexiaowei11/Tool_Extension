@@ -1,0 +1,20 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_damage": 10,
+            "netease:weapon": {
+                "attack_damage": 12,
+                "enchantment": -20,
+                "level": 0,
+                "speed": 1,
+                "type": "hoe"
+            }
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "quviz:cactus_hoe",
+            "register_to_create_menu": true
+        }
+    }
+}

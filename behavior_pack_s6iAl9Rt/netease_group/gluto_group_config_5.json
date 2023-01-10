@@ -1,0 +1,15 @@
+{
+    "groups": [
+        {
+            "group_name": "铜工具",
+            "icon": "quviz:copper_pickaxe",
+            "list": [
+                "quviz:copper_axe",
+                "quviz:copper_hoe",
+                "quviz:copper_pickaxe",
+                "quviz:copper_shovel",
+                "quviz:copper_sword"
+            ]
+        }
+    ]
+}

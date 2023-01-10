@@ -1,0 +1,15 @@
+{
+    "groups": [
+        {
+            "group_name": "青金石工具",
+            "icon": "quviz:lapis_lazuli_packaxe",
+            "list": [
+                "quviz:lapis_lazui_axe",
+                "quviz:lapis_lazli_joe",
+                "quviz:lapis_lazuli_packaxe",
+                "quviz:lapis_lazuli_shovel",
+                "quviz:arms1"
+            ]
+        }
+    ]
+}

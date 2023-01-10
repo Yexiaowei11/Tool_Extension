@@ -1,0 +1,15 @@
+{
+    "groups": [
+        {
+            "group_name": "末地石工具",
+            "icon": "quviz:end_seone_pickaxe",
+            "list": [
+                "quviz:end_stone_axe",
+                "quviz:end_stone_hoe",
+                "quviz:end_seone_pickaxe",
+                "quviz:end_seone_shovel",
+                "quviz:end_seone_sword"
+            ]
+        }
+    ]
+}

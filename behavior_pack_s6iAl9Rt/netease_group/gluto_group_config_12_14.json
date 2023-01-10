@@ -1,0 +1,70 @@
+{
+    "groups": [
+        {
+            "group_name": "下届岩工具",
+            "icon": "quviz:netherrack_piclaxe",
+            "list": [
+                "quviz:netherrack_axe",
+                "quviz:netherrack_hoe",
+                "quviz:netherrack_piclaxe",
+                "quviz:netherrack_shovel",
+                "quviz:netherrack_sword"
+            ]
+        },
+        {
+            "group_name": "黑曜石工具",
+            "icon": "quviz:obsidian_pickaxe",
+            "list": [
+                "quviz:obsidian_axe",
+                "quviz:obsidian_hoe",
+                "quviz:obsidian_pickaxe",
+                "quviz:obsidian_shovel",
+                "quviz:obsidian_sword"
+            ]
+        },
+        {
+            "group_name": "石英工具",
+            "icon": "quviz:quartz_pickaxe",
+            "list": [
+                "quviz:quartz_axe",
+                "quviz:quartz_hoe",
+                "quviz:quartz_pickaxe",
+                "quviz:quartz_shovel",
+                "quviz:quartz_sword"
+            ]
+        },
+        {
+            "group_name": "红石工具",
+            "icon": "quviz:redstone_pickaxe",
+            "list": [
+                "quviz:redstone_axe",
+                "quviz:redstone_hoe",
+                "quviz:redstone_pickaxe",
+                "quviz:redstone_shovel",
+                "quviz:redstone_sword"
+            ]
+        },
+        {
+            "group_name": "潜影盒工具",
+            "icon": "quviz:shulker_box_pickaxe",
+            "list": [
+                "quviz:shulker_box_axe",
+                "quviz:shulker_box_hoe",
+                "quviz:shulker_box_pickaxe",
+                "quviz:shulker_box_shovel",
+                "quviz:shulker_box_sword"
+            ]
+        },
+        {
+            "group_name": "TNT工具",
+            "icon": "quviz:TNT_pickaxe",
+            "list": [
+                "quviz:TNT_axe",
+                "quviz:TNT_hoe",
+                "quviz:TNT_pickaxe",
+                "quviz:tnt_shovel",
+                "quviz:tnt_sword"
+            ]
+        }
+    ]
+}

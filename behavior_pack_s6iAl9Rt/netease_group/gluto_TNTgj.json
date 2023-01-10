@@ -1,0 +1,15 @@
+{
+    "groups": [
+        {
+            "group_name": "紫水晶工具",
+            "icon": "quviz:amethyst_pickaxe",
+            "list": [
+                "quviz:amethyst_axe",
+                "quviz:amethyst_hoe",
+                "quviz:amethyst_pickaxe",
+                "quviz:amethyst_shovel",
+                "quviz:amethyst_sword"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "groups": [
+        {
+            "group_name": "附魔台工具",
+            "icon": "quviz:enchanting_table_pickaxe",
+            "list": [
+                "quviz:enchanting_table_axe",
+                "quviz:enchanting_table_hoe",
+                "quviz:enchanting_table_pickaxe",
+                "quviz:enchanting_table_shovel",
+                "quviz:enchanting_table_sword"
+            ]
+        }
+    ]
+}

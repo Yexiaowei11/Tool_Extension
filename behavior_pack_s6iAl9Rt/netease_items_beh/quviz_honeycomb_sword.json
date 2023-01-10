@@ -1,0 +1,19 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_damage": 10,
+            "netease:weapon": {
+                "attack_damage": 6,
+                "enchantment": 0,
+                "level": 1,
+                "type": "sword"
+            }
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "quviz:honeycomb_sword",
+            "register_to_create_menu": true
+        }
+    }
+}

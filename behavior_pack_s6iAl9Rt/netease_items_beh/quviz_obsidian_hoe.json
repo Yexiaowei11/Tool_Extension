@@ -1,0 +1,21 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_damage": 2000,
+            "minecraft:max_stack_size": 1,
+            "netease:weapon": {
+                "attack_damage": 5,
+                "enchantment": 10,
+                "level": 4,
+                "speed": 10,
+                "type": "hoe"
+            }
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "quviz:obsidian_hoe",
+            "register_to_create_menu": true
+        }
+    }
+}

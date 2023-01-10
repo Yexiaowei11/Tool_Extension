@@ -1,0 +1,20 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_damage": 900,
+            "netease:weapon": {
+                "attack_damage": 12,
+                "enchantment": 25565,
+                "level": 3,
+                "speed": 5,
+                "type": "shovel"
+            }
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "quviz:enchanting_table_shovel",
+            "register_to_create_menu": true
+        }
+    }
+}
