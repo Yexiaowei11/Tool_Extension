@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "quviz:tnt_sword"
+        },
+        "key": {
+            "B": {
+                "data": 0,
+                "item": "minecraft:stick"
+            },
+            "C": {
+                "data": 0,
+                "item": "minecraft:tnt"
+            }
+        },
+        "pattern": [
+            "C",
+            "C",
+            "B"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "quviz:tnt_sword"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

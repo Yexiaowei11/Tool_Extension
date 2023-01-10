@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "quviz:netherrack_HOE"
+        },
+        "key": {
+            "B": {
+                "data": 0,
+                "item": "minecraft:netherrack"
+            },
+            "D": {
+                "data": 0,
+                "item": "minecraft:stick"
+            }
+        },
+        "pattern": [
+            "BB",
+            " D",
+            " D"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "quviz:netherrack_hoe"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

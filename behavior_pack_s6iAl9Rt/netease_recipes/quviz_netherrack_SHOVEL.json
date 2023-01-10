@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "quviz:netherrack_SHOVEL"
+        },
+        "key": {
+            "A": {
+                "data": 0,
+                "item": "minecraft:netherrack"
+            },
+            "C": {
+                "data": 0,
+                "item": "minecraft:stick"
+            }
+        },
+        "pattern": [
+            "A",
+            "C",
+            "C"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "quviz:netherrack_shovel"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

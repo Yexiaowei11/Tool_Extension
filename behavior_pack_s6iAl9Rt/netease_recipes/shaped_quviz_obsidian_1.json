@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "quviz:obsidian_1"
+        },
+        "key": {
+            "B": {
+                "data": 0,
+                "item": "minecraft:obsidian"
+            },
+            "C": {
+                "data": 0,
+                "item": "minecraft:stick"
+            }
+        },
+        "pattern": [
+            "BB",
+            "BC",
+            " C"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "quviz:obsidian_axe"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

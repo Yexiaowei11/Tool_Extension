@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "quviz:enchanting_table_sword"
+        },
+        "key": {
+            "B": {
+                "data": 0,
+                "item": "minecraft:enchanting_table"
+            },
+            "C": {
+                "data": 0,
+                "item": "minecraft:stick"
+            }
+        },
+        "pattern": [
+            "B",
+            "B",
+            "C"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "quviz:enchanting_table_sword"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

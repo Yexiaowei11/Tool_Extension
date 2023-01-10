@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "quviz:bricks_4"
+        },
+        "key": {
+            "A": {
+                "data": 0,
+                "item": "minecraft:brick_block"
+            },
+            "C": {
+                "data": 0,
+                "item": "minecraft:stick"
+            }
+        },
+        "pattern": [
+            "A",
+            "C",
+            "C"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "quviz:bricks_shovel"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

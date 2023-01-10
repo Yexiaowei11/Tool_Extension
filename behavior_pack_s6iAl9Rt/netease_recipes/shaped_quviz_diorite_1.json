@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "quviz:diorite_1"
+        },
+        "key": {
+            "B": {
+                "data": 0,
+                "item": "minecraft:stick"
+            },
+            "C": {
+                "data": 3,
+                "item": "minecraft:stone"
+            }
+        },
+        "pattern": [
+            "CC",
+            "CB",
+            " B"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "quviz:doprite_axe"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

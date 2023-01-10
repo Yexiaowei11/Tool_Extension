@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "quviz:enchanting_table_hoe"
+        },
+        "key": {
+            "B": {
+                "data": 0,
+                "item": "minecraft:enchanting_table"
+            },
+            "D": {
+                "data": 0,
+                "item": "minecraft:stick"
+            }
+        },
+        "pattern": [
+            "BB",
+            " D",
+            " D"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "quviz:enchanting_table_hoe"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

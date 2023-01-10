@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "quviz:TNT_axe"
+        },
+        "key": {
+            "B": {
+                "data": 0,
+                "item": "minecraft:tnt"
+            },
+            "C": {
+                "data": 0,
+                "item": "minecraft:stick"
+            }
+        },
+        "pattern": [
+            "BB",
+            "BC",
+            " C"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "quviz:TNT_axe"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

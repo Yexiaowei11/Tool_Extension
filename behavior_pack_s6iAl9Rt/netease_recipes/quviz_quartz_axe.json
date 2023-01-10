@@ -1,0 +1,25 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "quviz:quartz_axe"
+        },
+        "key": {
+            "A": {
+                "data": 0,
+                "item": "minecraft:apple"
+            }
+        },
+        "pattern": [
+            "A"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "minecraft:diamond_sword"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

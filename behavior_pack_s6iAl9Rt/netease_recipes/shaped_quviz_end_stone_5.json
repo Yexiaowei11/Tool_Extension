@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "quviz:end_stone_5"
+        },
+        "key": {
+            "B": {
+                "data": 0,
+                "item": "minecraft:end_stone"
+            },
+            "C": {
+                "data": 0,
+                "item": "minecraft:stick"
+            }
+        },
+        "pattern": [
+            "B",
+            "C",
+            "C"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "quviz:end_seone_shovel"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}
