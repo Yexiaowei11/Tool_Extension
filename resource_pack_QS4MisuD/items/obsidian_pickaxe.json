@@ -1,0 +1,15 @@
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "gjkz_hskgzs:obsidian_pickaxe",
+      "category": "Equipment",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:icon": "obsidian_pickaxe",
+      "minecraft:render_offsets": "tools",
+      "minecraft:creative_category": "Equipment"
+    }
+  }
+}
