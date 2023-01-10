@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "quviz:netherrack_sword"
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "quviz:netherrack_sword",
+            "register_to_create_menu": true
+        }
+    }
+}

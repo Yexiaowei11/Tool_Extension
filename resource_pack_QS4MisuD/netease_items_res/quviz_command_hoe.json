@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "quviz:command_hoe"
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "quviz:command_hoe",
+            "register_to_create_menu": true
+        }
+    }
+}

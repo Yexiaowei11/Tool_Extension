@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "quviz:quartz_shovel"
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "quviz:quartz_shovel",
+            "register_to_create_menu": true
+        }
+    }
+}

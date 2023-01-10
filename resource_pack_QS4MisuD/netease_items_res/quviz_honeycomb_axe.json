@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "quviz:honeycomb_axe"
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "quviz:honeycomb_axe",
+            "register_to_create_menu": true
+        }
+    }
+}

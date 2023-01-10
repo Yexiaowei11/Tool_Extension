@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "quviz:enchanting_table_axe"
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "quviz:enchanting_table_axe",
+            "register_to_create_menu": true
+        }
+    }
+}

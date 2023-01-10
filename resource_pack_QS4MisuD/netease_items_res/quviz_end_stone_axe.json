@@ -1,0 +1,12 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "quviz:end_stone_axe"
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "quviz:end_stone_axe"
+        }
+    }
+}

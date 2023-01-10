@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "quviz:netherrack_shovel"
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "quviz:netherrack_shovel",
+            "register_to_create_menu": true
+        }
+    }
+}

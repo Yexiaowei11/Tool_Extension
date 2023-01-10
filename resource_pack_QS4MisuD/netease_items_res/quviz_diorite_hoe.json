@@ -1,0 +1,12 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "quviz:diorite_hoe"
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "quviz:diorite_hoe"
+        }
+    }
+}

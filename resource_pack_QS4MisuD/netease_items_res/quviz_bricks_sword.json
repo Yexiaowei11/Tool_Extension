@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "quviz:bricks_sword"
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "quviz:bricks_sword",
+            "register_to_create_menu": true
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "quviz:bricks_pickaxe"
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "quviz:bricks_pickaxe",
+            "register_to_create_menu": true
+        }
+    }
+}

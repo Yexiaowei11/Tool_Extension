@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "quviz:netherrack_hoe"
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "quviz:netherrack_hoe",
+            "register_to_create_menu": true
+        }
+    }
+}

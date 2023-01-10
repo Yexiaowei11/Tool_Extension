@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "quviz:shulker_box_pickaxe"
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "quviz:shulker_box_pickaxe",
+            "register_to_create_menu": true
+        }
+    }
+}
