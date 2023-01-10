@@ -1,0 +1,42 @@
+{
+  "Source": "空白附加包",
+  "CreateVersion": "2.5.0.241207",
+  "EditVersion": "2.5.0.241207",
+  "OldEditCount": 0,
+  "NewEditCount": 2,
+  "OldComponents": [],
+  "Account": "",
+  "UserName": "",
+  "UserId": "",
+  "Id": "34c61bd2d36a439c87df5aca70ab174a",
+  "EditType": 2,
+  "IsMap": false,
+  "CreateNew": true,
+  "EditName": "工具扩展",
+  "GameType": 1,
+  "WorldType": 2,
+  "Seed": "",
+  "BlockNums": [
+    0,
+    0
+  ],
+  "BornPoint": [
+    0,
+    0,
+    0
+  ],
+  "SaveBackMapPath": "",
+  "SaveBackAddOnPath": "",
+  "EditAddOnPaths": [],
+  "EditMaterialPaths": [],
+  "EditLogFilePath": "",
+  "ServerName": "EXPR",
+  "StudioPort": 11402,
+  "DCWebUrl": "https://x19apigatewayexpr.nie.netease.com",
+  "ShowGuide": false,
+  "AssertCacheDir": "",
+  "ElkUrl": "",
+  "ShowGpuDriverTips": true,
+  "StudioTempPath": "",
+  "EditorResourcePackPath": ""
+}
